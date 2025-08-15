@@ -1,20 +1,20 @@
 ## UI-UX-Experiment1
- NAME:Enbanathan V
- REG NO: 212224220027
+ ### NAME:Enbanathan V
+ ### REG NO: 212224220027
 ## Aim: 
-To explore the Hands-on UI/UX Experiments.
+### To explore the Hands-on UI/UX Experiments.
 
 ## Algorithm:
 
- a. Hands-on UI/UX Experiments
- b. Explore the fundamentals of UI and UX
- c. Differentiate between UI and UX using real-world case studies.
- d. Illustrate the relationship between UI and UX in design.
- e. Demonstrate various UI/UX design tools in detail.
+ ### a. Hands-on UI/UX Experiments
+ ### b. Explore the fundamentals of UI and UX
+ ### c. Differentiate between UI and UX using real-world case studies.
+ ### d. Illustrate the relationship between UI and UX in design.
+ ### e. Demonstrate various UI/UX design tools in detail.
 
 ## Output:
 [UI and UX.pdf](https://github.com/user-attachments/files/21796942/UI.and.UX.pdf)
 
 
 ## Result:
-Hence, it was successfully executed, enabling learners to grasp UI/UX concepts and apply design tools effectively in practical scenarios.
+### Hence, it was successfully executed, enabling learners to grasp UI/UX concepts and apply design tools effectively in practical scenarios.
