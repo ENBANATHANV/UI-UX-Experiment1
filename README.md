@@ -1,10 +1,11 @@
 ## UI-UX-Experiment1
-### NAME:Enbanathan V
-### REG NO: 212224220027
+ NAME:Enbanathan V
+ REG NO: 212224220027
 ## Aim: 
 To explore the Hands-on UI/UX Experiments.
 
 ## Algorithm:
+
  a. Hands-on UI/UX Experiments
  b. Explore the fundamentals of UI and UX
  c. Differentiate between UI and UX using real-world case studies.
